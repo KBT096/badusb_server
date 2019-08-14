@@ -1,0 +1,1 @@
+createobject("wscript.shell").run "C:\Users\dell\Desktop\a.bat",0

