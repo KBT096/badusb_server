@@ -1,5 +1,5 @@
 rd "C:\ProgramData\NVIDIA DATE" /s/q
-reg delete HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run /v "C:\ProgramData\NVIDIA DATE\shut.vbs" /f
+reg delete HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run /v "shut" /f
 
 
 
